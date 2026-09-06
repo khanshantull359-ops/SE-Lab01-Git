@@ -1,0 +1,6 @@
+Name: Hafsa
+Registration Number: SE-Lab01
+Department: Software Engineering
+Semester: 3rd
+Programming Language: Python
+Interest: Version Control & Automation
