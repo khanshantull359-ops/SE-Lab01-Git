@@ -1,5 +1,2 @@
 Name: Hafsa
-<<<<<<< HEAD
 Favorite Programming Language: Python
-=======
->>>>>>> student-profile
